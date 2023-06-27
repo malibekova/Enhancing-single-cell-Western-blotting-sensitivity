@@ -1,3 +1,4 @@
+%%This Matlab script is used to model GFP band spreading in nitrocellulose for varying ratios of diffusion D to immobilization k
 clear all;
 close all;
 
