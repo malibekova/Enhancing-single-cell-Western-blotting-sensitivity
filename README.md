@@ -26,7 +26,7 @@ Codes Damkohler_calcs provided can be used to model diffusion/immobilization of 
 
 ## File Structure
 
-Repositpry contains two folders. FWHM calculator folder contains Matlab script to determine full width at half max of a plot. Protein band spreading model folder contains MAtlab scipt to assess GFP ban spreading and associated Excel files,
+Repository contains two folders. FWHM calculator folder contains Matlab script to determine full width at half max of a plot. Protein band spreading model folder contains Matlab scipt to assess GFP band spreading and associated Excel files.
 
 
 ## Contact
